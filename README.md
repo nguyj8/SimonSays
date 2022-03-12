@@ -4,5 +4,5 @@
  
  Introductory to Programming (CS 121) project.
  
- # What I learned 
+ # What I Learned 
  * Tkinter and Tk interface 
