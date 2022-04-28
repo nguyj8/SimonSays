@@ -2,7 +2,9 @@
 
  A game very similar to the Simon electronic game memorizing the sequences with its four large colored keys: red, green, blue, and yellow. 
  
- Introductory to Programming (CS 121) project.
- 
  # What I Learned 
- * Tkinter and Tk interface 
+ * Lists (colored panels) 
+ * Arrays (buttons and patterns)
+ * UI / UX of the blinking color block
+ * Integrating score system within the sequence of blocks
+ * Tkinter and Tk interface
